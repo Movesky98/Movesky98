@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-(https://github-readme-stats.vercel.app/api?username=Movesky98&show_icons=true&theme=transparent)
+![Movesky98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Movesky98&show_icons=true&theme=transparent)
 <!--
 **Movesky98/Movesky98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
